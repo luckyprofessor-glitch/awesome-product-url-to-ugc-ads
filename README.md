@@ -35,6 +35,7 @@ Tools whose main output is **words + shot list**, not a rendered clip.
 
 ## AI video / avatar suites
 
+| [Ideoy](https://ideoy.ai) | Remake this week's viral meme videos from one selfie (MiniMax H3, 9:16) | Freemium | — |
 These **render** a clip. Useful if you want a file without a creator. Different job than a filmable script.
 
 | Tool | Input | Output | Price (public, 2026) | Notes |
